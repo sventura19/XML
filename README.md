@@ -10,4 +10,4 @@ Projecto Final XML
 
 ## Autor
 - Sergi
-- Edu
+- Eduardo
