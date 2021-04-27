@@ -1,4 +1,4 @@
-public class main{
+public class main_stock {
     public static void main(String[] args) {
         System.out.println("hola mon");
     }
