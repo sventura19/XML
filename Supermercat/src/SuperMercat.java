@@ -15,6 +15,12 @@ public class SuperMercat {
         System.out.println("hola mon");
     }
 
+    void menuPrincipal(){
+        System.out.println("Gestio de supermercat");
+        System.out.println("1. Gestio Stock");
+        System.out.println("2.");
+    }
+
     static void leerStock(){
         Scanner e = new Scanner(System.in);
 
