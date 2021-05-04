@@ -3,8 +3,9 @@ import java.util.Scanner;
 /**
  *
  */
-public class main{
+public class SuperMercat {
     public static void main(String[] args) {
+
         saludaMain();
         segon.saluda();
         leerStock();
