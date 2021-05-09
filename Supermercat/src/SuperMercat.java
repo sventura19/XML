@@ -4,18 +4,14 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- *
- */
+
 public class SuperMercat {
     public static void main(String[] args) throws IOException {
+
         Datos("D:\\sergi\\Documents\\IdeaProjects\\XML\\Supermercat\\src\\Stock.txt");
         segon.saluda();
         //leerStock();
     }
-
-
-
 
     void menuPrincipal(){
         System.out.println("Gestio de supermercat");
